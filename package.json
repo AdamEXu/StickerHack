@@ -1,0 +1,30 @@
+{
+  "name": "stickerhack",
+  "version": "0.0.1",
+  "description": "Import PNGs and GIFs into the local macOS iMessage Live Stickers picker.",
+  "type": "module",
+  "bin": {
+    "stickerhack": "./bin/stickerhack.js"
+  },
+  "files": [
+    "bin",
+    "helpers",
+    "lib",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "imessage",
+    "stickers",
+    "macos",
+    "heic",
+    "heics"
+  ],
+  "author": "Adam Xu",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
