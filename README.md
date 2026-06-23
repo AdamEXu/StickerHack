@@ -1,18 +1,8 @@
 <div align="center">
-  <img src="resources/banner.gif" alt="StickerHack banner" width="600" />
+  <h1>StickerHack</h1>
+  <img src="resources/banner.gif" alt="StickerHack banner" width="600" /><br />
+  <h3>Add custom images as stickers to iMessage</h3>
 </div>
-
-Add custom images as stickers to iMessage
-
-# StickerHack
-
-Static stickers are effectively custom emojis, as they can be used inline.
-
-Works on most PNGs and GIFs
-
-Stickers sync across devices logged into the same account, so even though you need a Mac to import your stickers, you can use them on your iPhone/iPad too!
-
-**Note that this thing is still not the most reliable and more updates will be coming soon™** especially for larger files and especially for GIFs, it can be quite unreliable. I will be looking into fixing some of these issues soon™ so please stay tuned :)
 
 ## Requirements
 
@@ -51,10 +41,12 @@ If the sticker appears in the iMessage sticker picker properly, but when actuall
 
 If you can't use your animated stickers inline, that's a limitation of iMessage. Only static stickers can be used inline as "custom emojis"
 
-## Contributing
-
-1. Make a pr
-2. I review pr at my discretion (not guaranteed to be merged)
-3. Don't be a dick about it
-
 ## Thanks!
+
+Static stickers are effectively custom emojis, as they can be used inline.
+
+Works on most PNGs and GIFs
+
+Stickers sync across devices logged into the same account, so even though you need a Mac to import your stickers, you can use them on your iPhone/iPad too!
+
+**Note that this thing is still not the most reliable and more updates will be coming soon™** especially for larger files and especially for GIFs, it can be quite unreliable. I will be looking into fixing some of these issues soon™ so please stay tuned :)
