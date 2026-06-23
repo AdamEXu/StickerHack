@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="resources/banner.gif" alt="StickerHack banner" width="600" />
+</div>
+
 # StickerHack
 
 Custom stickers on iMessage!
